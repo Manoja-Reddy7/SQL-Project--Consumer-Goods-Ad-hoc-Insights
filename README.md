@@ -15,7 +15,7 @@ Strengthening both technical (SQL) and analytical problem-solving skills
 
 This project is inspired by an industry-style analytics challenge, focusing on turning raw data into actionable insights.
 
-📌 Business Requests & SQL Solutions
+##### 📌 Business Requests & SQL Solutions
 ## 1️⃣ List of markets where customer "Atliq Exclusive" operates in the APAC region
 
 <img src="https://github.com/user-attachments/assets/fba2ad23-84cc-4b8c-ac65-fb59df680293" width="800"/>
@@ -49,7 +49,7 @@ This project is inspired by an industry-style analytics challenge, focusing on t
 
 <img src="https://github.com/user-attachments/assets/3eac92b8-c78c-44be-8c79-ed08adec547d" width="700"/>
 
-6️⃣ Top 5 customers with highest average pre-invoice discount % (FY 2021, Indian Market)
+## 6️⃣ Top 5 customers with highest average pre-invoice discount % (FY 2021, Indian Market)
 
     Output fields:
     customer_code
@@ -58,7 +58,7 @@ This project is inspired by an industry-style analytics challenge, focusing on t
 
 <img src="https://github.com/user-attachments/assets/910464b6-1c03-4acb-b953-575756d97f06" width="600"/>
 
-7️⃣ Gross Sales Amount report for "Atliq Exclusive" (Monthly trend)
+## 7️⃣ Gross Sales Amount report for "Atliq Exclusive" (Monthly trend)
       
       Output fields:
       Month
@@ -67,7 +67,7 @@ This project is inspired by an industry-style analytics challenge, focusing on t
 
 <img src="https://github.com/user-attachments/assets/de90591a-3c1a-4e63-80d9-9bf2839edcbb" width="800"/>
 
-8️⃣ Quarter of 2020 with maximum total_sold_quantity
+## 8️⃣ Quarter of 2020 with maximum total_sold_quantity
       
       Output fields:
       Quarter
@@ -75,7 +75,7 @@ This project is inspired by an industry-style analytics challenge, focusing on t
 
 <img src="https://github.com/user-attachments/assets/7068e634-7fd3-441e-abaf-2df47eb41eb2" width="700"/>
 
-9️⃣ Channel contributing the most to gross sales (FY 2021)
+## 9️⃣ Channel contributing the most to gross sales (FY 2021)
     Output fields:
     channel
     gross_sales_mln
@@ -83,7 +83,7 @@ This project is inspired by an industry-style analytics challenge, focusing on t
 
 <img src="https://github.com/user-attachments/assets/3cf806b5-979a-4db9-987a-2bde8edf92eb" width="700"/>
 
-🔟 Top 3 products in each division (by total_sold_quantity in FY 2021)
+## 🔟 Top 3 products in each division (by total_sold_quantity in FY 2021)
     Output fields:
     division
     product_code
@@ -93,7 +93,7 @@ This project is inspired by an industry-style analytics challenge, focusing on t
 
    <img src="https://github.com/user-attachments/assets/2b5d647a-b4d1-4b4d-8714-f06e828be682" width="800"/>
    
-📊 Key Learnings
+### 📊 Key Learnings
 
 Writing efficient SQL queries for business problems
 
@@ -103,12 +103,11 @@ Using SQL window functions for ranking and aggregation
 
 Deriving insights to support data-driven decisions
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 SQL (MySQL)
 
-Dataset: Consumer Goods (Provided by CodeBasics
-)
+Dataset: Consumer Goods (Provided by CodeBasics) ->  https://github.com/Manoja-Reddy7/SQL-Project--Consumer-Goods-Ad-hoc-Insights/blob/main/atliq_hardware_db.sql
 
 Visualization: Screenshots from SQL query results
 
