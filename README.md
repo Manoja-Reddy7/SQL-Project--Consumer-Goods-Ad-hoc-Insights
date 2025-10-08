@@ -15,7 +15,7 @@ Strengthening both technical (SQL) and analytical problem-solving skills
 
 This project is inspired by an industry-style analytics challenge, focusing on turning raw data into actionable insights.
 
-##### 📌 Business Requests & SQL Solutions
+### 📌 Business Requests & SQL Solutions
 ## 1️⃣ List of markets where customer "Atliq Exclusive" operates in the APAC region
 
 <img src="https://github.com/user-attachments/assets/fba2ad23-84cc-4b8c-ac65-fb59df680293" width="800"/>
